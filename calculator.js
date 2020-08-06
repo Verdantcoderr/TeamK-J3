@@ -63,7 +63,7 @@ let calculator_buttons = [
     {
         name : "inverse",
         symbol : "inv",
-        formula : "Math.inv "// define multiplicative inverse function
+        formula : "Math.inv",// define multiplicative inverse function
         type : "math_function"
     },
     {
